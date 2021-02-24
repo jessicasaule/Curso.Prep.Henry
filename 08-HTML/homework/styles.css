@@ -1,0 +1,34 @@
+body {
+    height: autos;
+    background-image: url(https://mahatmarice.com/wp-content/uploads/2019/05/Vegetarian-Sushi-Rolls.jpg);
+}
+
+h1 {
+    color: darkblue;
+    
+}
+
+img {
+    width: 400px;
+    
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: silver;
+    padding: 50px;
+    border: 1px solid black;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
+.divClass, #thirdDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
