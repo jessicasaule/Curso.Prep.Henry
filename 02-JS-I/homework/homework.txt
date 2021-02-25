@@ -1,0 +1,11 @@
+-Variables: son palabras que van a guardar un valor que yo les asigne, como si fueran una caja.
+
+-Strings: es una cadena o conjunto de caracteres alfanuméricos.
+
+-Funciones: son lugares en donde uno puede guardar acciones genéricas que luego se pueden aplicar a cosas específicas. 
+Las funciones van a recibir argumentos, es decir, parámetros que permitirán a la función relacionarse con las cosas específicas que van a ejecutar.
+Además, las funciones, luego de realizar las acciones para las que fueron creadas, devuelven un resultado.
+
+-Las declaraciones 'if' son condicionales que nos permiten realizar determinadas acciones sólo si se cumplen ciertas condiciones que nosotros establecemos.
+
+-Los valores booleanos son como una moneda de dos caras (true y false), y dependiendo del elemento con el que se estén relacionando, pueden dar como resultado true o false.

@@ -1,0 +1,3 @@
+-prototype: prototype es una propiedad que tienen todas las clases que consiste en otorgarle a cada objeto que pertenezca a una clase el acceso a los métodos establecidos en esas clases.
+
+-constructores: son como plantillas "genéricas" que permiten aplicar ciertas acciones que varios objetos puedan tener en común. Es decir, los constructores son útiles para muchos objetos que comparten varias propiedades y métodos en común, y ahorra el trabajo de tener que escribir código idéntico para cada objeto. 

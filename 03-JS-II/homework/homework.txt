@@ -1,0 +1,6 @@
+-for: es una herramienta que permite recorrer de forma automatizada un arreglo de elementos con el fin de ejecutar cierta acción y devolver un resultado.
+
+-operadores lógicos: son operadores que sirven para evaluar diferentes expresiones y compararlas, y luego devolver un resultado.
+El operador lógico '&&' se llama 'Y' (o AND) y sirve para condicionar que todas las expresiones dadas se tengan que cumplir para que el resultado sea verdadero.
+El operador lógico '||' se llama 'O' (u OR) y sirve para condicionar que almenos una de las expresiones dadas se tenga que cumplir para el resultado sea verdadero.
+El operador lógico '!' se llama 'NO' (o NOT) y sirve para "negar" la condición dada, expresando lo opuesto.

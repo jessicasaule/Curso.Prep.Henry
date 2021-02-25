@@ -1,0 +1,1 @@
+-Funciones callback: ocurren cuando se pasa una función como argumento de otra función. Cuando se pasa una función como argumento, por convención se utiliza 'cb' como notación. A su vez, estas funciones pueden pasar argumentos dentro de la función.

@@ -1,0 +1,1 @@
+-Arrays: los arreglos son elementos que permiten almacenar varios elementos dentro de sí. Estos elementos pueden ser de cualquier tipo y se encuentran ordenados como una matriz.

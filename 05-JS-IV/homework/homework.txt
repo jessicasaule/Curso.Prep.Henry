@@ -1,0 +1,11 @@
+-Objetos: los objetos son similares a los arrays en el sentido de que almacenan datos, pero se diferencian de estos en que los datos que almacenan no se ordenan según un índice sino que tienen un par de clave-valor que los distingue.
+Las claves son únicas para cada objeto, pero varias claves pueden tener el mismo valor.
+
+-Propiedades: las propiedades nos permiten realizar diferentes acciones con ciertos elementos, según el resultado que deseemos obtener.
+
+-Métodos: los métodos son las funciones guardadas dentro de un objeto.
+
+-Bucle for...in: es un bucle que sirve para realizar iteraciones en los objetos, similar al bucle 'for' estándar, pero que no necesita de índices numéricos (el objeto no tiene ídnices numéricos). El bucle for...in recorrerá todas las claves del objeto y finalizará cuando se hayan iterado todas las claves.
+
+-Notación de puntos vs notación de corchetes: cuando creamos un objeto podemos asignarlo y acceder a sus valores usando notación de puntos o notación de corchetes. Con la notación de puntos podemos llamar al nombre del objeto, un punto, y el nombre de la clave.
+La notación de corchetes funciona como llamar elementos en una matriz.  
